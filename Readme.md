@@ -6,6 +6,9 @@
 * [Script.js](./CS/WebSite/Script.js) (VB: [Script.js](./VB/WebSite/Script.js))
 <!-- default file list end -->
 # How to get invisible / collapsed selected nodes' keys in virtual mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4774/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to manually get invisible / collapsed selected nodes' keys when ASPxTreeList operates in  virtual mode.</p><p>It is then possible to get these keys on the server side for further processing.</p><br />
